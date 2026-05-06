@@ -6,7 +6,7 @@ import Stairs from "./Stairs";
 
 const StairTransition = () => {
   const pathname = usePathname();
-  return (
+  return ( 
     <>
     <AnimatePresence mode="wait">
       <div key={pathname}>
