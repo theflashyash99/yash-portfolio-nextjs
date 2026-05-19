@@ -2,7 +2,7 @@
 
 const Resume = () => {
   return (
-    <div>Resume Page</div>
+    <div>Resume Page< 2/div>
   )
 }
 
